@@ -10,3 +10,8 @@ engine.py
 run_full_validation.py
 test_*.py
 *.out
+
+run_sim.py
+sim_state*/
+state_*/
+test_g6*/

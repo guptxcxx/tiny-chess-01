@@ -1,0 +1,12 @@
+kit/
+__pycache__/
+*.pyc
+transcripts.tar.gz
+source.py
+study_main.py
+play.py
+test_main.py
+engine.py
+run_full_validation.py
+test_*.py
+*.out
